@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,24): error C2065: 'p': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,28): error C2065: 'p': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,35): error C2065: 'q': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,39): error C2065: 'q': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,18): error C2660: 'k': function does not take 1 arguments
+D:\Pr5.1\Pr5.1\Pr5.1.cpp(20,8): message : see declaration of 'k'
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,18): message : while trying to match the argument list '()'
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,49): error C2065: 'p': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,53): error C2065: 'q': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,63): error C2065: 'p': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,67): error C2065: 'q': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,80): error C2065: 'p': undeclared identifier
+D:\Pr5.1\UnitTest1\UnitTest1.cpp(16,84): error C2065: 'q': undeclared identifier
